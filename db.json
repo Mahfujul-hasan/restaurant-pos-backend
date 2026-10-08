@@ -2397,5 +2397,19 @@
       "id": "xFt8hQr9FGs"
     }
   ],
+  "contactMessages": [
+    {
+      "id": "cm1",
+      "restaurantId": "r1",
+      "name": "Tanvir Hasan",
+      "email": "tanvir@example.com",
+      "phone": "01811223344",
+      "subject": "Birthday dinner for 20",
+      "message": "Hi! Can we book the upstairs room for a birthday dinner on a Friday next month? We would be around 20 people and would like a set menu.",
+      "status": "new",
+      "customerId": null,
+      "createdAt": "2026-10-07T09:15:00.000Z"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
